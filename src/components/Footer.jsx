@@ -13,11 +13,11 @@ const Footer = () => {
       </div>
       
       <div className="social-links">
-        <a href="#" className="facebook"><FaFacebook /></a>
-        <a href="#" className="twitter"><FaTwitter /></a>
-        <a href="#" className="instagram"><FaInstagram /></a>
-        <a href="#" className="linkedin"><FaLinkedin /></a>
-        <a href="#" className="github"><FaGithub /></a>
+        <a href="https://facebook.com" className="facebook"><FaFacebook /></a>
+        <a href="https://twitter.com" className="twitter"><FaTwitter /></a>
+        <a href="https://instagram.com" className="instagram"><FaInstagram /></a>
+        <a href="https://www.linkedin.com" className="linkedin"><FaLinkedin /></a>
+        <a href="https://github.com/kareemulla04" className="github"><FaGithub /></a>
       </div>
     </footer>
   )
